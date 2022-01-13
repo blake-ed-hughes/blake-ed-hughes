@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="ReadMeImages/backdrop.jpg" alt="backdrop" width="750" height="300" align="center">
+<img src="ReadMeImages/backdrop.jpg" alt="backdrop" width="600" height="250" align="center">
 </p>
 
 I am a Full Stack Software Engineer from Austin, TX. I have a background in art and design and love collaboratively creating things; applications, furniture, true to size manatee piñatas, grappling hooks, ect. I strive to be well organized, detail oriented and future focused. I eagerly embrace challenging problems and developing creative solutions through my applications while learning and implementing new technologies. I’m lucky to have gotten to manage several small teams and love finding ways to make them feel comfortable, communicative and efficient. I'm an avid woodworker, metalworker, DIY builder, hiker, camper and outdoor enthusiast. Ever eager to learn new skill sets and improve existing ones. I am interested in making meaningful contributions to any new project or team. If you are interested in collaborating please contact me through LinkedIn or via email.
